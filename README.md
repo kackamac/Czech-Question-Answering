@@ -23,4 +23,4 @@ This repository contains other necessary scripts for dataset and model preproces
  - *vizualize_data_sizes_after_translation* - to visualize the dataset sizes after translation using LINDAT Translator
  - *vizualize_results_all_models* - to evaluate models and create graphs with results
 
-The translated data are available [here(https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3249)].
+The translated data are available [here](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3249).
